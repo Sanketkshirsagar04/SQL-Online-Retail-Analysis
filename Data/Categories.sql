@@ -1,0 +1,10 @@
+insert into Categories (CategoryName, Description) values ('Photography', 'Tripod with wireless remote for effortless photo-taking.');
+insert into Categories (CategoryName, Description) values ('Home Security', 'Secure digital wireless security camera system.');
+insert into Categories (CategoryName, Description) values ('Food - Seafood', 'Wild-caught salmon filets, perfect for grilling or baking.');
+insert into Categories (CategoryName, Description) values ('Food - Meat', 'Tender and juicy pork chops, perfect on the grill.');
+insert into Categories (CategoryName, Description) values ('Travel', 'Compact travel organizer for accessories and toiletries.');
+insert into Categories (CategoryName, Description) values ('Fitness', 'High-density foam roller for muscle recovery.');
+insert into Categories (CategoryName, Description) values ('Food - Canned Goods', 'Wild-caught tuna in olive oil, perfect for salads.');
+insert into Categories (CategoryName, Description) values ('Smart Home', 'Wi-Fi enabled doorbell with HD camera and two-way audio.');
+insert into Categories (CategoryName, Description) values ('Clothing - Footwear', 'Trendy high-top canvas sneakers for a stylish streetwear look.');
+insert into Categories (CategoryName, Description) values ('Office', 'Ergonomic monitor stand for improved workspace organization.');
